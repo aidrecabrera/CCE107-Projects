@@ -1,6 +1,8 @@
+package um.aidre.cce107projects;
+
 import java.util.Scanner;
 
-public class NameAgeProgram {
+public class Activity2 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Enter the number of names and ages you want to input: ");
